@@ -8,6 +8,12 @@ If you want the lastest version of this template, please visit [CodedThemes's ho
 
 Thanks [CodedThemes](https://github.com/CodedThemes).
 
+<br/>
+<br/>
+<img src="https://github.com/huynhsamha/datta-able-react-admin/blob/master/public/datta-able-banner.png" width="100%" />
+<br/>
+<br/>
+
 # CodedThemes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
